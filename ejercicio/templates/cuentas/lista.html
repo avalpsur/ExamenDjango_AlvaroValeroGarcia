@@ -1,0 +1,30 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Cuentas</title>
+    </head>
+    <body>
+
+        <h1>Cuentas</h1>
+        {% for cuenta in cuentas %}
+            <div>
+                <h3>Id_Cuenta: {{cuenta.id}}</h2>
+                    <h3>Numero: {{cuenta.numero}}</h2>
+                    <h3>Entidad: {{cuenta.entidad}}</h2>
+                    <h3>Dinero: {{cuenta.dinero}}</h2>
+                    <h2>Cliente:</h2>
+                        <div>
+                            <h3>Id_cliente: {{cuenta.cliente.id}}</h2>
+                            <h3>DNI: {{cuenta.cliente.DNI}}</h2>
+                            <h3>Nombre: {{cuenta.cliente.nombre}}</h2>
+                            <h3>Apellidos: {{cuenta.cliente.apellidos}}</h2>
+                            <h3>Edad: {{cuenta.cliente.edad}}</h2>
+                        </div>     
+            </div>     
+            <hr></hr>    
+        {% endfor %}
+
+    </body>
+
+
+</html>

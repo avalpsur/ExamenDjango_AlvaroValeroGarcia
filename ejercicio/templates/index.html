@@ -1,0 +1,44 @@
+<html>
+    <head></head>
+    <body>
+        <h1>Lista de enlaces</h1>
+
+        <div>
+            <h3>1-URL que muestra el último voto que se realizó en un modelo principal en concreto. Muestra el comentario, la votación e información del usuario o cliente que lo realizó
+            </h3>
+            <a href="{% url 'ultimoVoto' 2 %}">Último voto del pijama 2</a>
+        </div>
+
+        <div>
+            <h3>2-URL que muestra todos los modelos principales que tengan votos con una puntuación numérica menor a 3 y que realizó un usuario o cliente en concreto
+            </h3>
+            <a href="{% url 'listarMalos' 1 %}">Lista de pijamas mal valorados por el cliente 1</a>
+        </div>
+
+        <div>
+            <h3>3-URL que muestra los usuarios o clientes que no han votado nunca y mostrar información sobre estos usuarios y clientes al completo
+            </h3>
+            <a href="{% url 'listaSinVotos' %}">Lista de clientes que no han votado nunca</a>
+        </div>
+
+        <div>
+            <h3>4-URL que muestra las cuentas bancarias que sean de la Caixa o de Unicaja y que el propietario tenga un nombre que contenga un texto en concreto, por ejemplo “Juan”
+            </h3>
+            <a href="{% url 'listaCuentas' "Mohcen" %}">Lista de cuentas de los usuarios que se llamen Mohcen(si son de Unicaja o la Caixa)</a>
+        </div>
+
+        <div>
+            <h3>5-Obtener los votos de los usuarios que hayan votado a partir del 2023 con una puntuación numérica igual a 5  y que tengan asociada una cuenta bancaria.
+            </h3>
+            <a href="{% url 'votos5estrellas' %}">Lista de votos 5 estrellas después de 2023</a>
+        </div>
+
+        <div>
+            <h3>6-Obtener todos los modelos principales que tengan una media de votaciones mayor del 2,5
+            </h3>
+            <a href="{% url 'mediaMayor' %}">Obtener todos los modelos que tengan una media mayor a 2,5</a>
+        </div>
+
+
+    </body>
+</html>

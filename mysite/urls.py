@@ -19,5 +19,13 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path("__debug__/", include("debug_toolbar.urls")),
     path('',include('ejercicio.urls')),
 ]
+
+
+from django.conf.urls import handler400,handler404,handler403,handler500
+handler404 = "ejercicio.views.mi_error_400"
+handler503 = "ejercicio.views.mi_error_403"
+handler503 = "ejercicio.views.mi_error_404"
+handler500 = "ejercicio.views.mi_error_500"

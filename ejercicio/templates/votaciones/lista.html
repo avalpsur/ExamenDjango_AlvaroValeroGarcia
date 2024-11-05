@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Valoraciones</title>
+    </head>
+    <body>
+        <h1>Valoraciones</h1>
+        {% for voto in votos %}
+            <h2>Puntuación: {{ voto.puntuacion }}</h2>
+            <h2>Comentario: {{ voto.comentario}}</h2>
+            <h2>Fecha: {{ voto.fecha}}</h2>
+
+            <h2>Cliente</h2>
+            <div>
+                <h3>Id_cliente: {{voto.cliente.id}}</h2>
+                <h3>DNI: {{voto.cliente.DNI}}</h2>
+                <h3>Nombre: {{voto.cliente.nombre}}</h2>
+                <h3>Apellidos: {{voto.cliente.apellidos}}</h2>
+                <h3>Edad: {{voto.cliente.edad}}</h2>
+            </div>
+        {% endfor %}
+    </body>
+</html>

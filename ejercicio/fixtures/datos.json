@@ -1,0 +1,875 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-11-05T08:19:49.346Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Pijama object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-11-05T08:20:00.818Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Pijama object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-11-05T08:20:56.883Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "3",
+        "object_repr": "Pijama object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-11-05T08:21:31.972Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Cliente object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-11-05T08:21:58.987Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "2",
+        "object_repr": "Cliente object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-11-05T08:22:18.539Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "3",
+        "object_repr": "Cliente object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-11-05T08:22:39.349Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "CuentaBancaria object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-11-05T08:22:58.753Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "CuentaBancaria object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-11-05T08:23:11.571Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "CuentaBancaria object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-11-05T08:23:58.960Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Votaciones object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-11-05T08:24:29.199Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Votaciones object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-11-05T08:25:08.511Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "Votaciones object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-11-05T08:25:53.975Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "Votaciones object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-11-05T08:27:01.216Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Votaciones object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-11-05T08:27:02.985Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Votaciones object (5)",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-11-05T08:51:43.214Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Votaciones object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-11-05T09:15:57.868Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "4",
+        "object_repr": "Cliente object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-11-05T09:16:15.707Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "4",
+        "object_repr": "CuentaBancaria object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add votaciones",
+        "content_type": 7,
+        "codename": "add_votaciones"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change votaciones",
+        "content_type": 7,
+        "codename": "change_votaciones"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete votaciones",
+        "content_type": 7,
+        "codename": "delete_votaciones"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view votaciones",
+        "content_type": 7,
+        "codename": "view_votaciones"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add pijama",
+        "content_type": 8,
+        "codename": "add_pijama"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change pijama",
+        "content_type": 8,
+        "codename": "change_pijama"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete pijama",
+        "content_type": 8,
+        "codename": "delete_pijama"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view pijama",
+        "content_type": 8,
+        "codename": "view_pijama"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add cliente",
+        "content_type": 9,
+        "codename": "add_cliente"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change cliente",
+        "content_type": 9,
+        "codename": "change_cliente"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete cliente",
+        "content_type": 9,
+        "codename": "delete_cliente"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view cliente",
+        "content_type": 9,
+        "codename": "view_cliente"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add cuenta bancaria",
+        "content_type": 10,
+        "codename": "add_cuentabancaria"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change cuenta bancaria",
+        "content_type": 10,
+        "codename": "change_cuentabancaria"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete cuenta bancaria",
+        "content_type": 10,
+        "codename": "delete_cuentabancaria"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view cuenta bancaria",
+        "content_type": 10,
+        "codename": "view_cuentabancaria"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$870000$3ewgl6bn1s6mzUdO6PnlpO$vEDDfgfVvGxjlM4AtsNCUdne8J5GTx64ujkvtbMB/vk=",
+        "last_login": "2024-11-05T08:13:29.775Z",
+        "is_superuser": true,
+        "username": "alumnado",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-11-05T08:13:19.135Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "ejercicio",
+        "model": "votaciones"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "ejercicio",
+        "model": "pijama"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "ejercicio",
+        "model": "cliente"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "ejercicio",
+        "model": "cuentabancaria"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "r1hgbwx9qnmkof8nl4k9b7koyjwoi640",
+    "fields": {
+        "session_data": ".eJxVjDsOwjAQBe_iGlle2-sPJT1nsNY_HECOFCcV4u4QKQW0b2beiwXa1ha2UZYwZXZmwE6_W6T0KH0H-U79NvM093WZIt8VftDBr3Muz8vh_h00Gu1bY_ZaW6xYIRJVIK9dtQIheaVIGmkRazLJKgcCInpTixbWqeJBQgT2_gDPHDbp:1t8Egr:JT6Sx_-cuOQ-AW04srBst3UXJ_iRSPleVy-BH3QEtk4",
+        "expire_date": "2024-11-19T08:13:29.803Z"
+    }
+},
+{
+    "model": "ejercicio.pijama",
+    "pk": 1,
+    "fields": {
+        "modelo": "Corto",
+        "talla": "m",
+        "material": "Poliester"
+    }
+},
+{
+    "model": "ejercicio.pijama",
+    "pk": 2,
+    "fields": {
+        "modelo": "Largo",
+        "talla": "L",
+        "material": "Algodón"
+    }
+},
+{
+    "model": "ejercicio.pijama",
+    "pk": 3,
+    "fields": {
+        "modelo": "Invernal",
+        "talla": "XL",
+        "material": "Seda"
+    }
+},
+{
+    "model": "ejercicio.cliente",
+    "pk": 1,
+    "fields": {
+        "DNI": "29364582X",
+        "nombre": "Josefa",
+        "apellidos": "Huertas Hoyos",
+        "edad": 92
+    }
+},
+{
+    "model": "ejercicio.cliente",
+    "pk": 2,
+    "fields": {
+        "DNI": "87463524L",
+        "nombre": "José",
+        "apellidos": "Martínez Salgado",
+        "edad": 26
+    }
+},
+{
+    "model": "ejercicio.cliente",
+    "pk": 3,
+    "fields": {
+        "DNI": "14589632L",
+        "nombre": "María",
+        "apellidos": "García Pimienta",
+        "edad": 29
+    }
+},
+{
+    "model": "ejercicio.cliente",
+    "pk": 4,
+    "fields": {
+        "DNI": "20321456S",
+        "nombre": "Mohcen",
+        "apellidos": "Benizza Bouzid",
+        "edad": 65
+    }
+},
+{
+    "model": "ejercicio.cuentabancaria",
+    "pk": 1,
+    "fields": {
+        "numero": "736452819203",
+        "entidad": "CA",
+        "dinero": 3500,
+        "cliente": 1
+    }
+},
+{
+    "model": "ejercicio.cuentabancaria",
+    "pk": 2,
+    "fields": {
+        "numero": "108441122000",
+        "entidad": "UN",
+        "dinero": 48000,
+        "cliente": 2
+    }
+},
+{
+    "model": "ejercicio.cuentabancaria",
+    "pk": 3,
+    "fields": {
+        "numero": "695214236558",
+        "entidad": "IN",
+        "dinero": 13000,
+        "cliente": 3
+    }
+},
+{
+    "model": "ejercicio.cuentabancaria",
+    "pk": 4,
+    "fields": {
+        "numero": "874552145563",
+        "entidad": "UN",
+        "dinero": 20,
+        "cliente": 4
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 1,
+    "fields": {
+        "pijama": 1,
+        "cliente": 1,
+        "puntuacion": 4,
+        "comentario": "Pijama cómodo y resistente",
+        "fecha": "2023-11-02T08:23:19Z"
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 2,
+    "fields": {
+        "pijama": 2,
+        "cliente": 1,
+        "puntuacion": 2,
+        "comentario": "No es muy cómodo",
+        "fecha": "2024-01-05T08:23:59Z"
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 3,
+    "fields": {
+        "pijama": 3,
+        "cliente": 3,
+        "puntuacion": 5,
+        "comentario": "¡¡¡ES EL MEJOR PIJAMA DEL MUNDO!!!",
+        "fecha": "2024-06-13T19:24:29Z"
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 4,
+    "fields": {
+        "pijama": 2,
+        "cliente": 2,
+        "puntuacion": 1,
+        "comentario": "Vaya mierda, ni se os ocurra comprarlo .........",
+        "fecha": "2023-12-25T08:25:08Z"
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 5,
+    "fields": {
+        "pijama": 1,
+        "cliente": 3,
+        "puntuacion": 3,
+        "comentario": "Para lo que cuesta, merece la pena pero no esperéis gran cosa",
+        "fecha": "2024-07-05T21:25:54Z"
+    }
+},
+{
+    "model": "ejercicio.votaciones",
+    "pk": 6,
+    "fields": {
+        "pijama": 3,
+        "cliente": 1,
+        "puntuacion": 1,
+        "comentario": "Vaya basura que vende esta gente.......",
+        "fecha": "2024-07-13T20:12:57Z"
+    }
+}
+]

@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Pijamas</title>
+    </head>
+    <body>
+
+        <h1>Pijamas</h1>
+        {% for pijama in pijamas %}
+            <div>
+                <h2>ID: {{pijama.id}}</h2>
+                <h2>Modelo: {{pijama.modelo}}</h2>
+                <h2>Material: {{pijama.material}}</h2>
+                <h2>Talla: {{pijama.talla}}</h2>
+            </div>     
+            <hr></hr>    
+        {% endfor %}
+
+    </body>
+
+
+</html>

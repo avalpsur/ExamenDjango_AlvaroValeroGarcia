@@ -1,0 +1,23 @@
+<!DOCTYPE>
+<html>
+    <head>
+        <title>Clientes</title>
+    </head>
+    <body>
+
+        <h1>Clientes</h1>
+        {% for cliente in clientes %}
+            <div>
+                <h3>Id_cliente: {{cliente.id}}</h2>
+                <h3>DNI: {{cliente.DNI}}</h2>
+                <h3>Nombre: {{cliente.nombre}}</h2>
+                <h3>Apellidos: {{cliente.apellidos}}</h2>
+                <h3>Edad: {{cliente.edad}}</h2>
+            </div>     
+            <hr></hr>    
+        {% endfor %}
+
+    </body>
+
+
+</html>
